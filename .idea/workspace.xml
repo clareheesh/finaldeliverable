@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f6403f-b1e5-4095-8ecd-0c2659eab205" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="08f6403f-b1e5-4095-8ecd-0c2659eab205" name="Default" comment="" />
     <ignored path="finaldeliverable.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54362416" vertical-offset="2302" max-vertical-offset="3638">
-              <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.7718121" vertical-offset="2302" max-vertical-offset="3638">
+              <caret line="176" column="29" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="29" />
               <folding>
                 <marker date="1415010718521" expanded="true" signature="4552:5145" placeholder="..." />
               </folding>
@@ -325,8 +323,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54362416" vertical-offset="2302" max-vertical-offset="3638">
-          <caret line="164" column="18" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.7718121" vertical-offset="2302" max-vertical-offset="3638">
+          <caret line="176" column="29" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="29" />
           <folding>
             <marker date="1415010718521" expanded="true" signature="4552:5145" placeholder="..." />
           </folding>
